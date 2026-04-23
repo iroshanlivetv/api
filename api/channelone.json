@@ -7,7 +7,7 @@
       "fairplay": false
     },
     "wv_license_proxy_url": "https://api.viulk.xyz/api/api/license",
-    "url": "https://api.viulk.xyz/api/m3u/Ch001.mpd",
+    "url": "https://bpcdncs8.dialog.lk/bpk-token/1ab@ojrca31cfkauppznhmqglcfa0xlkunvgzc3ijtba/GlobalManifest.mpd?bkm-query",
     "limit_token": "3,...",
     "isDeeplink": null,
     "vod_type": "INTERNAL",
