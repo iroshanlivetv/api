@@ -7,7 +7,7 @@
       "fairplay": false
     },
     "wv_license_proxy_url": "https://api.viulk.xyz/api/api/license",
-    "url": "https://api.viulk.xyz/api/api/live/1",
+    "url": "https://api.viulk.xyz/api/api/live/2",
     "limit_token": "3,...",
     "isDeeplink": null,
     "vod_type": "INTERNAL",
