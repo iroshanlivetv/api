@@ -12,7 +12,7 @@
     "views": "2 views",
     "time": "LIVE",
     "isLive": true,
-    "manifest": "https://api.viulk.xyz/api/api/live/1"
+    "manifest": "https://raw.githubusercontent.com/iroshanlivetv/api/refs/heads/main/api/channelone.json"
   },
   {
     "id": "Rupavahini",
