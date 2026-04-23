@@ -1,0 +1,18 @@
+{
+  "status": "ok",
+  "data": {
+    "drm": {
+      "widevine": true,
+      "verimatrix": false,
+      "fairplay": false
+    },
+    "wv_license_proxy_url": "https://api.viulk.xyz/api/api/license",
+    "url": "https://api.viulk.xyz/api/api/live/2",
+    "limit_token": "3,...",
+    "isDeeplink": null,
+    "vod_type": "INTERNAL",
+    "cdn_used": "broadpeakv1",
+    "type": "IPTV",
+    "channel_uid": "rupavahini"
+  }
+}
