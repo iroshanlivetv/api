@@ -27,7 +27,7 @@
     "views": "3 views",
     "time": "LIVE",
     "isLive": true,
-    "manifest": "https://raw.githubusercontent.com/iroshanlivetv/viu_vpn/refs/heads/main/api/rupavahini.json"
+    "manifest": "https://raw.githubusercontent.com/iroshanlivetv/api/refs/heads/main/api/rupavahini.json"
   },
   {
     "id": "Nethra TV",
