@@ -57,7 +57,7 @@
     "views": "3 views",
     "time": "LIVE",
     "isLive": true,
-    "manifest": "https://ceylonetv.unaux.com/api/itn"
+    "manifest": "http://www.ceylontv.cu.ma/api/itn"
   },
   {
     "id": "Vasantham TV",
