@@ -1,0 +1,51 @@
+[
+  {
+    "id": "channel_one",
+    "channel": "Channel One",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22849?accessKey=WkVjNWNscFhORDBLCg==",
+    "epgID": "1",
+    "realepgId": 11,
+    "url": "https://api.viulk.xyz/epg/11"
+  },
+  {
+    "id": "rupavahini",
+    "channel": "Rupavahini",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22813?accessKey=WkVjNWNscFhORDBLCg==",
+    "epgID": "2",
+    "realepgId": 12,
+    "title": "Piyum Neela Wila",
+    "url": "https://api.viulk.xyz/epg/12"
+  },
+  {
+    "id": "nethra_tv",
+    "channel": "Nethra TV",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/31371?accessKey=WkVjNWNscFhORDBLCg==",
+    "epgID": "3",
+    "realepgId": 13,
+    "url": "https://api.viulk.xyz/epg/13"
+  },
+  {
+    "id": "itn",
+    "channel": "ITN",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22850?accessKey=WkVjNWNscFhORDBLCg==",
+    "epgID": "4",
+    "realepgId": 14,
+    "url": "https://api.viulk.xyz/epg/14"
+  },
+  {
+    "id": "vasantham_tv",
+    "channel": "Vasantham TV",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/14298?accessKey=WkVjNWNscFhORDBLCg==",
+    "epgID": "5",
+    "realepgId": 15,
+    "url": "https://api.viulk.xyz/epg/15"
+  },
+  {
+    "id": "tv_derana",
+    "channel": "TV Derana",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22839?accessKey=WkVjNWNscFhORDBLCg==",
+    "epgID": "6",
+    "realepgId": 16,
+    "url": "https://api.viulk.xyz/epg/16"
+  }
+]
