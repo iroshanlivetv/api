@@ -1,0 +1,1074 @@
+[
+  {
+    "id": "channelone",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22849?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "1",
+    "realepgId": 11,
+    "url": "https://api.viulk.xyz/epg/11"
+  },
+  {
+    "id": "rupavahini",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22813?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "2",
+    "realepgId": 12,
+    "url": "https://api.viulk.xyz/epg/12"
+  },
+  {
+    "id": "nethratv",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/31371?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "3",
+    "realepgId": 13,
+    "url": "https://api.viulk.xyz/epg/13"
+  },
+  {
+    "id": "itn",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22850?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "4",
+    "realepgId": 14,
+    "url": "https://api.viulk.xyz/epg/14"
+  },
+  {
+    "id": "vasanthamtv",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/14298?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "5",
+    "realepgId": 15,
+    "url": "https://api.viulk.xyz/epg/15"
+  },
+  {
+    "id": "tvderana",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22839?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "6",
+    "realepgId": 16,
+    "url": "https://api.viulk.xyz/epg/16"
+  },
+  {
+    "id": "swarnavahini",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22848?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "7",
+    "realepgId": 3,
+    "url": "https://api.viulk.xyz/epg/3"
+  },
+  {
+    "id": "sirasatv",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/11105?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "8",
+    "realepgId": 5,
+    "url": "https://api.viulk.xyz/epg/5"
+  },
+  {
+    "id": "shakthitv",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22847?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "9",
+    "realepgId": 6,
+    "url": "https://api.viulk.xyz/epg/6"
+  },
+  {
+    "id": "tv1",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/11103?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "10",
+    "realepgId": 7,
+    "url": "https://api.viulk.xyz/epg/7"
+  },
+  {
+    "id": "hirutv",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22838?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "11",
+    "realepgId": 17,
+    "url": "https://api.viulk.xyz/epg/17"
+  },
+  {
+    "id": "supreme",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/174525?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "12",
+    "realepgId": 26,
+    "url": "https://api.viulk.xyz/epg/26"
+  },
+  {
+    "id": "arttelevision",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23064?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "13",
+    "realepgId": 19,
+    "url": "https://api.viulk.xyz/epg/19"
+  },
+  {
+    "id": "adaderana24",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23063?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "14",
+    "realepgId": 20,
+    "url": "https://api.viulk.xyz/epg/20"
+  },
+  {
+    "id": "siyathatv",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22837?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "15",
+    "realepgId": 21,
+    "url": "https://api.viulk.xyz/epg/21"
+  },
+  {
+    "id": "harithatv",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22842?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "16",
+    "realepgId": 22,
+    "url": "https://api.viulk.xyz/epg/22"
+  },
+  {
+    "id": "tvdidula",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22840?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "17",
+    "realepgId": 23,
+    "url": "https://api.viulk.xyz/epg/23"
+  },
+  {
+    "id": "rideetv",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/9590?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "18",
+    "realepgId": 24,
+    "url": "https://api.viulk.xyz/epg/24"
+  },
+  {
+    "id": "citihitz",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22841?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "19",
+    "realepgId": 25,
+    "url": "https://api.viulk.xyz/epg/25"
+  },
+  {
+    "id": "channel20",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/81676?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "20",
+    "realepgId": 18,
+    "url": "https://api.viulk.xyz/epg/18"
+  },
+  {
+    "id": "rangiri",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22844?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "21",
+    "realepgId": 27,
+    "url": "https://api.viulk.xyz/epg/27"
+  },
+  {
+    "id": "hitv",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22845?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "22",
+    "realepgId": 28,
+    "url": "https://api.viulk.xyz/epg/28"
+  },
+  {
+    "id": "pragna",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22846?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "23",
+    "realepgId": 29,
+    "url": "https://api.viulk.xyz/epg/29"
+  },
+  {
+    "id": "damsathara",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23062?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "24",
+    "realepgId": 30,
+    "url": "https://api.viulk.xyz/epg/30"
+  },
+  {
+    "id": "jayatv",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/20252?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "25",
+    "realepgId": 31,
+    "url": "https://api.viulk.xyz/epg/31"
+  },
+  {
+    "id": "buddhisttv",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23082?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "26",
+    "realepgId": 32,
+    "url": "https://api.viulk.xyz/epg/32"
+  },
+  {
+    "id": "shraddhatv",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/20253?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "27",
+    "realepgId": 33,
+    "url": "https://api.viulk.xyz/epg/33"
+  },
+  {
+    "id": "godtv",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23074?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "28",
+    "realepgId": 34,
+    "url": "https://api.viulk.xyz/epg/34"
+  },
+  {
+    "id": "ewtn",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23073?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "29",
+    "realepgId": 35,
+    "url": "https://api.viulk.xyz/epg/35"
+  },
+  {
+    "id": "aljazeera",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/13846?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "30",
+    "realepgId": 36,
+    "url": "https://api.viulk.xyz/epg/36"
+  },
+  {
+    "id": "abcaustralia",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23061?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "31",
+    "realepgId": 37,
+    "url": "https://api.viulk.xyz/epg/37"
+  },
+  {
+    "id": "bbcworld",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23060?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "32",
+    "realepgId": 38,
+    "url": "https://api.viulk.xyz/epg/38"
+  },
+  {
+    "id": "CGTN",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23059?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "33",
+    "realepgId": 39,
+    "url": "https://api.viulk.xyz/epg/39"
+  },
+  {
+    "id": "cnn",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23069?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "34",
+    "realepgId": 40,
+    "url": "https://api.viulk.xyz/epg/40"
+  },
+  {
+    "id": "ndtv",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23067?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "35",
+    "realepgId": 41,
+    "url": "https://api.viulk.xyz/epg/41"
+  },
+  {
+    "id": "france24",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/20263?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "36",
+    "realepgId": 42,
+    "url": "https://api.viulk.xyz/epg/42"
+  },
+  {
+    "id": "euronews",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23057?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "37",
+    "realepgId": 43,
+    "url": "https://api.viulk.xyz/epg/43"
+  },
+  {
+    "id": "bloomberg",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23056?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "38",
+    "realepgId": 44,
+    "url": "https://api.viulk.xyz/epg/44"
+  },
+  {
+    "id": "cnbc",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22803?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "39",
+    "realepgId": 45,
+    "url": "https://api.viulk.xyz/epg/45"
+  },
+  {
+    "id": "B4UMusic",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22790?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "40",
+    "realepgId": 46,
+    "url": "https://api.viulk.xyz/epg/46"
+  },
+  {
+    "id": "romantico",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/708479?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "41",
+    "realepgId": 47,
+    "url": "https://api.viulk.xyz/epg/47"
+  },
+  {
+    "id": "channelc",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/20268?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "42",
+    "realepgId": 48,
+    "url": "https://api.viulk.xyz/epg/48"
+  },
+  {
+    "id": "jayamax",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/185456?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "43",
+    "realepgId": 49,
+    "url": "https://api.viulk.xyz/epg/49"
+  },
+  {
+    "id": "zingtv",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/175281?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "44",
+    "realepgId": 50,
+    "url": "https://api.viulk.xyz/epg/50"
+  },
+  {
+    "id": "davinci",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22800?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "45",
+    "realepgId": 51,
+    "url": "https://api.viulk.xyz/epg/51"
+  },
+  {
+    "id": "cbeebies",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22795?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "46",
+    "realepgId": 52,
+    "url": "https://api.viulk.xyz/epg/52"
+  },
+  {
+    "id": "cartoonnetwork",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22794?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "47",
+    "realepgId": 53,
+    "url": "https://api.viulk.xyz/epg/53"
+  },
+  {
+    "id": "aplus",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23054?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "48",
+    "realepgId": 54,
+    "url": "https://api.viulk.xyz/epg/54"
+  },
+  {
+    "id": "nickelodeon",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/13844?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "49",
+    "realepgId": 55,
+    "url": "https://api.viulk.xyz/epg/55"
+  },
+  {
+    "id": "babytv",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22796?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "50",
+    "realepgId": 56,
+    "url": "https://api.viulk.xyz/epg/56"
+  },
+  {
+    "id": "disneyjr",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23053?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "51",
+    "realepgId": 57,
+    "url": "https://api.viulk.xyz/epg/57"
+  },
+  {
+    "id": "nickjr",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/13854?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "52",
+    "realepgId": 58,
+    "url": "https://api.viulk.xyz/epg/58"
+  },
+  {
+    "id": "moonbug",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/102016?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "53",
+    "realepgId": 68,
+    "url": "https://api.viulk.xyz/epg/68"
+  },
+  {
+    "id": "pogo",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/47359?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "54",
+    "realepgId": 2086,
+    "url": "https://api.viulk.xyz/epg/2086"
+  },
+  {
+    "id": "animalplanet",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/14185?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "55",
+    "realepgId": 61,
+    "url": "https://api.viulk.xyz/epg/61"
+  },
+  {
+    "id": "discovery",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23044?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "56",
+    "realepgId": 62,
+    "url": "https://api.viulk.xyz/epg/62"
+  },
+  {
+    "id": "discoveryscience",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23072?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "57",
+    "realepgId": 63,
+    "url": "https://api.viulk.xyz/epg/63"
+  },
+  {
+    "id": "tlc",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22784?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "58",
+    "realepgId": 64,
+    "url": "https://api.viulk.xyz/epg/64"
+  },
+  {
+    "id": "natgeo",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22307?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "59",
+    "realepgId": 2,
+    "url": "https://api.viulk.xyz/epg/2"
+  },
+  {
+    "id": "ngcwild",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22814?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "60",
+    "realepgId": 60,
+    "url": "https://api.viulk.xyz/epg/60"
+  },
+  {
+    "id": "historytv18",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22810?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "61",
+    "realepgId": 67,
+    "url": "https://api.viulk.xyz/epg/67"
+  },
+  {
+    "id": "paparetv1",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/130716?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "62",
+    "realepgId": 2126,
+    "url": "https://api.viulk.xyz/epg/2126"
+  },
+  {
+    "id": "paparesd",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/130718?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "63",
+    "realepgId": 70,
+    "url": "https://api.viulk.xyz/epg/70"
+  },
+  {
+    "id": "sonysports1",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/13860?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "64",
+    "realepgId": 71,
+    "url": "https://api.viulk.xyz/epg/71"
+  },
+  {
+    "id": "tencricket",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/13862?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "65",
+    "realepgId": 72,
+    "url": "https://api.viulk.xyz/epg/72"
+  },
+  {
+    "id": "sonysports2",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/20280?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "66",
+    "realepgId": 73,
+    "url": "https://api.viulk.xyz/epg/73"
+  },
+  {
+    "id": "eurosport",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22309?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "67",
+    "realepgId": 74,
+    "url": "https://api.viulk.xyz/epg/74"
+  },
+  {
+    "id": "starsports1",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23050?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "68",
+    "realepgId": 75,
+    "url": "https://api.viulk.xyz/epg/75"
+  },
+  {
+    "id": "starsports2",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23051?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "69",
+    "realepgId": 76,
+    "url": "https://api.viulk.xyz/epg/76"
+  },
+  {
+    "id": "hbosignature",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22806?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "70",
+    "realepgId": 77,
+    "url": "https://api.viulk.xyz/epg/77"
+  },
+  {
+    "id": "hbofamily",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22807?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "71",
+    "realepgId": 78,
+    "url": "https://api.viulk.xyz/epg/78"
+  },
+  {
+    "id": "andflix",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/175283?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "72",
+    "realepgId": 79,
+    "url": "https://api.viulk.xyz/epg/79"
+  },
+  {
+    "id": "hitsmovies",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23049?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "73",
+    "realepgId": 80,
+    "url": "https://api.viulk.xyz/epg/80"
+  },
+  {
+    "id": "sonypix",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23076?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "74",
+    "realepgId": 81,
+    "url": "https://api.viulk.xyz/epg/81"
+  },
+  {
+    "id": "hits",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22815?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "75",
+    "realepgId": 82,
+    "url": "https://api.viulk.xyz/epg/82"
+  },
+  {
+    "id": "zeecafe",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/175285?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "76",
+    "realepgId": 83,
+    "url": "https://api.viulk.xyz/epg/83"
+  },
+  {
+    "id": "warnertv",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22783?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "77",
+    "realepgId": 84,
+    "url": "https://api.viulk.xyz/epg/84"
+  },
+  {
+    "id": "axn",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22792?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "78",
+    "realepgId": 85,
+    "url": "https://api.viulk.xyz/epg/85"
+  },
+  {
+    "id": "colorsinfinity",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/71891?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "79",
+    "realepgId": 86,
+    "url": "https://api.viulk.xyz/epg/86"
+  },
+  {
+    "id": "fashiontv",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/13886?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "80",
+    "realepgId": 87,
+    "url": "https://api.viulk.xyz/epg/87"
+  },
+  {
+    "id": "disneyint",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/174285?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "81",
+    "realepgId": 88,
+    "url": "https://api.viulk.xyz/epg/88"
+  },
+  {
+    "id": "comedyzone",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/178287?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "82",
+    "realepgId": 89,
+    "url": "https://api.viulk.xyz/epg/89"
+  },
+  {
+    "id": "bbcearth",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23070?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "83",
+    "realepgId": 90,
+    "url": "https://api.viulk.xyz/epg/90"
+  },
+  {
+    "id": "starbharath",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/26109?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "84",
+    "realepgId": 91,
+    "url": "https://api.viulk.xyz/epg/91"
+  },
+  {
+    "id": "sonyset",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23077?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "85",
+    "realepgId": 92,
+    "url": "https://api.viulk.xyz/epg/92"
+  },
+  {
+    "id": "setmax",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23075?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "86",
+    "realepgId": 93,
+    "url": "https://api.viulk.xyz/epg/93"
+  },
+  {
+    "id": "stargold",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23046?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "87",
+    "realepgId": 94,
+    "url": "https://api.viulk.xyz/epg/94"
+  },
+  {
+    "id": "colors",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22802?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "88",
+    "realepgId": 95,
+    "url": "https://api.viulk.xyz/epg/95"
+  },
+  {
+    "id": "starplus",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/24174?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "89",
+    "realepgId": 96,
+    "url": "https://api.viulk.xyz/epg/96"
+  },
+  {
+    "id": "b4umovies",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22791?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "90",
+    "realepgId": 97,
+    "url": "https://api.viulk.xyz/epg/97"
+  },
+  {
+    "id": "stargoldromance",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/14250?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "91",
+    "realepgId": 98,
+    "url": "https://api.viulk.xyz/epg/98"
+  },
+  {
+    "id": "zeecinema",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/175287?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "92",
+    "realepgId": 99,
+    "url": "https://api.viulk.xyz/epg/99"
+  },
+  {
+    "id": "colorstamil",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/20291?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "93",
+    "realepgId": 100,
+    "url": "https://api.viulk.xyz/epg/100"
+  },
+  {
+    "id": "jayatvind",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/185461?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "94",
+    "realepgId": 101,
+    "url": "https://api.viulk.xyz/epg/101"
+  },
+  {
+    "id": "jayamovies",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/185458?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "95",
+    "realepgId": 102,
+    "url": "https://api.viulk.xyz/epg/102"
+  },
+  {
+    "id": "starvijay",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/14258?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "96",
+    "realepgId": 103,
+    "url": "https://api.viulk.xyz/epg/103"
+  },
+  {
+    "id": "kalaignartv",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/20292?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "97",
+    "realepgId": 104,
+    "url": "https://api.viulk.xyz/epg/104"
+  },
+  {
+    "id": "zeetamil",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/175289?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "98",
+    "realepgId": 105,
+    "url": "https://api.viulk.xyz/epg/105"
+  },
+  {
+    "id": "siripollitv",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/25796?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "99",
+    "realepgId": 106,
+    "url": "https://api.viulk.xyz/epg/106"
+  },
+  {
+    "id": "jayaplus",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/185451?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "100",
+    "realepgId": 107,
+    "url": "https://api.viulk.xyz/epg/107"
+  },
+  {
+    "id": "zeethirai",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/188920?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "101",
+    "realepgId": 108,
+    "url": "https://api.viulk.xyz/epg/108"
+  },
+  {
+    "id": "nenasasinhalaal",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/47369?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "102",
+    "realepgId": 109,
+    "url": "https://api.viulk.xyz/epg/109"
+  },
+  {
+    "id": "nenasasinhalagrade6to9",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/47365?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "103",
+    "realepgId": 110,
+    "url": "https://api.viulk.xyz/epg/110"
+  },
+  {
+    "id": "nenasatamilal",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/47370?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "104",
+    "realepgId": 111,
+    "url": "https://api.viulk.xyz/epg/111"
+  },
+  {
+    "id": "nenasasinhalaol",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/47367?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "105",
+    "realepgId": 112,
+    "url": "https://api.viulk.xyz/epg/112"
+  },
+  {
+    "id": "nenasatamilol",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/47368?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "106",
+    "realepgId": 113,
+    "url": "https://api.viulk.xyz/epg/113"
+  },
+  {
+    "id": "hgtv",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22805?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "107",
+    "realepgId": 69,
+    "url": "https://api.viulk.xyz/epg/69"
+  },
+  {
+    "id": "foodnetwork",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22809?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "108",
+    "realepgId": 59,
+    "url": "https://api.viulk.xyz/epg/59"
+  },
+  {
+    "id": "discoveryhdworld",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23065?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "109",
+    "realepgId": 8,
+    "url": "https://api.viulk.xyz/epg/8"
+  },
+  {
+    "id": "animalplanethd",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/14187?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "110",
+    "realepgId": 116,
+    "url": "https://api.viulk.xyz/epg/116"
+  },
+  {
+    "id": "axnhd",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22772?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "111",
+    "realepgId": 117,
+    "url": "https://api.viulk.xyz/epg/117"
+  },
+  {
+    "id": "rockentertainmenthd",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22300?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "112",
+    "realepgId": 118,
+    "url": "https://api.viulk.xyz/epg/118"
+  },
+  {
+    "id": "hitsnow",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22305?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "113",
+    "realepgId": 119,
+    "url": "https://api.viulk.xyz/epg/119"
+  },
+  {
+    "id": "hbohd",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22296?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "114",
+    "realepgId": 120,
+    "url": "https://api.viulk.xyz/epg/120"
+  },
+  {
+    "id": "starmovieshd",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22301?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "115",
+    "realepgId": 121,
+    "url": "https://api.viulk.xyz/epg/121"
+  },
+  {
+    "id": "cinemaworldhd",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22854?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "116",
+    "realepgId": 122,
+    "url": "https://api.viulk.xyz/epg/122"
+  },
+  {
+    "id": "cinemaxhd",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22804?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "117",
+    "realepgId": 123,
+    "url": "https://api.viulk.xyz/epg/123"
+  },
+  {
+    "id": "hbohitshd",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22808?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "118",
+    "realepgId": 124,
+    "url": "https://api.viulk.xyz/epg/124"
+  },
+  {
+    "id": "starmoviesselecthd",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/23045?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "119",
+    "realepgId": 125,
+    "url": "https://api.viulk.xyz/epg/125"
+  },
+  {
+    "id": "starsportshd1",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/13880?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "120",
+    "realepgId": 126,
+    "url": "https://api.viulk.xyz/epg/126"
+  },
+  {
+    "id": "starsselecthd1",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22852?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "category": "Sports",
+    "realepgId": 127,
+    "url": "https://api.viulk.xyz/epg/127"
+  },
+  {
+    "id": "starsselecthd2",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22853?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "122",
+    "realepgId": 128,
+    "url": "https://api.viulk.xyz/epg/128"
+  },
+  {
+    "id": "sonysports2hd",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22773?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "123",
+    "realepgId": 129,
+    "url": "https://api.viulk.xyz/epg/129"
+  },
+  {
+    "id": "sonysports5hd",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22297?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "124",
+    "realepgId": 130,
+    "url": "https://api.viulk.xyz/epg/130"
+  },
+  {
+    "id": "premiersports",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/22299?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "125",
+    "realepgId": 131,
+    "url": "https://api.viulk.xyz/epg/131"
+  },
+  {
+    "id": "thepaparehd",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/130720?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "126",
+    "realepgId": 132,
+    "url": "https://api.viulk.xyz/epg/132"
+  },
+  {
+    "id": "thepapare2hd",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/130722?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "127",
+    "realepgId": 133,
+    "url": "https://api.viulk.xyz/epg/133"
+  },
+  {
+    "id": "discoveryturbo",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/47361?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "128",
+    "realepgId": 2085,
+    "url": "https://api.viulk.xyz/epg/2085"
+  },
+  {
+    "id": "trtworld",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/24071?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "131",
+    "realepgId": 1831,
+    "url": "https://api.viulk.xyz/epg/1831"
+  },
+  {
+    "id": "dwenglish",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/24072?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "133",
+    "realepgId": 1833,
+    "url": "https://api.viulk.xyz/epg/1833"
+  },
+  {
+    "id": "raiitalia",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/24069?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "134",
+    "realepgId": 1834,
+    "url": "https://api.viulk.xyz/epg/1834"
+  },
+  {
+    "id": "phoenixinfo",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/24073?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "135",
+    "realepgId": 1835,
+    "url": "https://api.viulk.xyz/epg/1835"
+  },
+  {
+    "id": "tv5monde",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/24070?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "136",
+    "realepgId": 1836,
+    "url": "https://api.viulk.xyz/epg/1836"
+  },
+  {
+    "id": "colorsrishty",
+    "channelImage": "https://api3.viu.lk/api/client/v1/global/images/695417?accessKey=WkVjNWNscFhORDBLCg==",
+    "type": "IPTV",
+    "epgID": "137",
+    "realepgId": 1837,
+    "url": "https://api.viulk.xyz/epg/1837"
+  }
+]
